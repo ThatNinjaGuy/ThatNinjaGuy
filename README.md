@@ -44,7 +44,7 @@ When I'm not coding or diving into the latest tech trends, I enjoy watching movi
 - **Employee Attendance App**: Reduced non-compliance and delays by 35%.
 - **Sports Training and Event Management App**: Implemented for 500 students.
 - **Payment Management System**: Created for complex needs of commercial banking clients.
-- **Data Solutions**: Lead the development of global data solutions with Hazelcast distributed caching on top of Hive, supporting over 50 TB of data.
+- **Data Solutions**: Built data solutions with Hazelcast distributed caching on top of Hive, supporting TBs of data.
 - **Marketing Metrics**: Created an analytics platform for marketing teams, significantly increasing leads and revenue.
 - **Client Onboarding**: Revamped workflow management, reducing costs and improving efficiency.
 - **Microservices**: Developed microservices for key functionalities, enhancing deployment efficiency.
